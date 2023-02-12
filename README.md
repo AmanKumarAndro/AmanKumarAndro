@@ -5,7 +5,7 @@
 <a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
 
 
-<img width="300" height="300" align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarandro&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarandro" /> </p>
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **You can DM me on amankumar8675@gmail.com**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,6 @@
 <a href="https://instagram.com/andro.aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andro.aman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amankumar8675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumar8675" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amankumlwrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankumlwrq" height="30" width="40" /></a>
-  <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p align="center" margin="0" >
 </p>
 
@@ -41,8 +40,9 @@
 
 
 
-<a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro"/></a>
+<a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
 <!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
  -->
+<!--  <a> <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a> -->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
