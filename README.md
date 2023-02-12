@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/aman-kumar-671a19244/)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">I am Aman Kumar, hailing from Jharkhand. I am currently pursuing a degree in Computer Science and Engineering at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarandro&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarandro" /> </p>
