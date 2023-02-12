@@ -39,10 +39,10 @@
 <a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=I_Always;Ready;To;Code&width=75&height=45"></a></p>
 
 
-
-<a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro" /></p>
+<!-- <a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a> -->
 <!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
  -->
-<!--  <a> <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a> -->
+ <a> <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
