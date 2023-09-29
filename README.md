@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/aman-kumar-671a19244/)
+[![MasterHead]()](https://www.linkedin.com/in/aman-kumar-671a19244/)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">I am Aman Kumar, hailing from Jharkhand. I am currently pursuing a degree in Computer Science and Engineering at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.</h3>
