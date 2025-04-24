@@ -1,48 +1,141 @@
+# <div align="center">{ AMAN KUMAR }</div>
+<div style="text-align: center;" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0DEAFF,100:9B57FF&height=200&section=header&text=Just%20A%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20digital%20experiences%20one%20commit%20at%20a%20time&descAlignY=60&descAlign=50" width="100%"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">I am Aman Kumar, hailing from Jharkhand. I am currently pursuing a degree in Computer Science and Engineering at the University of Engineering and Management in Jaipur. With a passion for technology, I am eager to learn and develop my skills in this field.</h3>
-<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a></p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0DEAFF&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Architect;Problem+Solver;Open+Source+Contributor;Algorithm+Enthusiast;)](https://git.io/typing-svg)
+  
+</div>
 
+## `> ./about.sh`
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="360px" alt="Coding Animation" style="margin-top: -20px; margin-bottom: 20px;" />
 
+```js
+const amanKumar = {
+  location: "Jharkhand, India 🇮🇳",
+  education: {
+    degree: "B.Tech in Computer Science & Engineering",
+    institution: "University of Engineering & Management, Jaipur",
+    graduation: "2025"
+  },
+  interests: ["Web Development","Software Devlopment","Open Source", "ML/AI", "DSA", "Video Editing"],
+  motto: "Turning complex problems into elegant solutions"
+};
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarandro&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarandro" /> </p>
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<p align="left"> <a href="https://twitter.com/amankumarandro" target="blank"><img src="https://img.shields.io/twitter/follow/amankumarandro?logo=twitter&style=for-the-badge" alt="amankumarandro" /></a> </p>
+## `> ps -ef | grep current_focus`
 
-- 🌱 I’m currently learning **Machine Learning, Data Analysis, Data Science, Web Development.**
+<div align="left">
+  
+```bash
+aman@dev:~$ status
+⚡ Currently powering up skills in Machine Learning and Data Science
+⚙️ Building robust CI/CD pipelines with DevOps tools
+🔐 Exploring Web3 and Blockchain technologies
+🧩 Solving complex algorithmic problems in Python and C++
+🚀 Developing scalable applications with the MERN stack
+```
 
-- 💬 Ask me about **Python, C++, Data Structure And Algorithm**
+</div>
 
-- 📫 How to reach me **You can DM me on amankumar8675@gmail.com**
+## `> ifconfig`
 
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amankumarandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumarandro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-kumar-671a19244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-671a19244" height="30" width="40" /></a>
-<a href="https://instagram.com/andro.aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andro.aman" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amankumar8675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumar8675" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amankumlwrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankumlwrq" height="30" width="40" /></a>
-<p align="center" margin="0" >
+  <a href="mailto:amankumar8675@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/></a>
+  <a href="https://twitter.com/amankumarandro"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/aman-kumar-671a19244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/andro.aman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
+  <a href="https://www.hackerrank.com/amankumar8675"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&color=071A2C" alt="HackerRank"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/amankumlwrq"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=071A2C" alt="GeeksforGeeks"/></a>
 </p>
 
+## `> ls -la ./skills`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&theme=dark" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,cpp,firebase&theme=dark" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,vim,figma&theme=dark" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## 🔥 Streak Stats
-<a height="200" href="https://github.com/DenverCoder1/readme-typing-svg"><img margin-top="500px" src="https://readme-typing-svg.herokuapp.com?lines=I_Always;Ready;To;Code&width=75&height=45"></a></p>
+## `> htop`
 
+<div align="center">
+  
+  ![Aman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumarandro&bg_color=0d1117&color=0DEAFF&line=9B57FF&point=FFFFFF&area=true&hide_border=true)
+  
+  <br/>
+  
+  <a href="https://github.com/amankumarandro">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amankumarandro&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=FF5900&sideNums=0DEAFF&currStreakNum=9B57FF&ring=9B57FF" alt="GitHub Streak"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/amankumarandro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0DEAFF&icon_color=9B57FF&text_color=FFFFFF" alt="GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarandro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0DEAFF&text_color=FFFFFF" alt="Top Languages"/>
+  </a>
+  
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro" /></p>
-<!-- <a align="left" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarandro&theme=algolia" alt="amankumarandro"/><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a> -->
-<!-- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=amankumarandro&theme=algolia&show_icons=true&locale=en" alt="amankumarandro" /></a>
- -->
- <a> <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a>
+## `> fun_zone.sh`
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
+## `> cat ./random_thoughts.log`
+
+```js
+function lifePhilosophy() {
+  while (true) {
+    learnSomethingNew();
+    buildSomethingCool();
+    shareKnowledge();
+    if (needCoffee()) {
+      breakTime("☕");
+    }
+    // TODO: Find time to sleep
+  }
+}
+```
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+  
+  <br>
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=amankumarandro&style=for-the-badge&color=0DEAFF)
+  
+  <br>
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width = "1000" boder = "none" />
+  
+  <sub>// Compiled with 💻 and ❤️ by Andro</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B57FF,100:0DEAFF&height=120&section=footer" width="100%"/>
