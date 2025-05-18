@@ -1,6 +1,6 @@
 # <div align="center">{ AMAN KUMAR }</div>
 <div style="text-align: center;" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0DEAFF,100:9B57FF&height=200&section=header&text=Just%20A%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20digital%20experiences%20one%20commit%20at%20a%20time&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0DEAFF,100:9B57FF&height=200&section=header&text=Just%20A%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20digital%20experiences%20one%20commit%20at%20a%20time&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -138,4 +138,4 @@ function lifePhilosophy() {
   <sub>// Compiled with 💻 and ❤️ by Andro</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B57FF,100:0DEAFF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:9B57FF,100:0DEAFF&height=120&section=footer" width="100%"/>
