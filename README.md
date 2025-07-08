@@ -52,6 +52,8 @@ aman@dev:~$ status
   <a href="https://instagram.com/andro.aman"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/></a>
   <a href="https://www.hackerrank.com/amankumar8675"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&color=071A2C" alt="HackerRank"/></a>
   <a href="https://auth.geeksforgeeks.org/user/amankumlwrq"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=071A2C" alt="GeeksforGeeks"/></a>
+ <a href="https://leetcode.com/u/amankumarandro"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&color=071A2C" alt="LeetCode"/></a>
+
 </p>
 
 ## `> ls -la ./skills`
