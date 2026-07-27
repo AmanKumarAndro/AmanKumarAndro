@@ -1,9 +1,6 @@
 ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=I%27m+Aman+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21&bg=0d1117&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Inter&watermarkpos=top-right)
 
 <p align="center">
-  <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=AI-First+Developer;React+Native+Specialist;SaaS+Builder;Open+Source+Contributor" alt="Typing SVG" /></a>
-  <br/>
   <a href="https://linkedin.com/in/aman-kumar-671a19244"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/amankumarandro"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://instagram.com/andro.aman"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" /></a>
