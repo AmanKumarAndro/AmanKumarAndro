@@ -1,85 +1,102 @@
 ![GitHub Repo Banner](https://ghrb.waren.build/banner?header=I%27m+Aman+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21&bg=0d1117&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Inter&watermarkpos=top-right)
 
+<p align="center">
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=AI-First+Developer;React+Native+Specialist;SaaS+Builder;Open+Source+Contributor" alt="Typing SVG" /></a>
+  <br/>
+  <a href="https://linkedin.com/in/aman-kumar-671a19244"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/amankumarandro"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/andro.aman"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:amankumar8675@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-Full-stack developer building products in AI, mobile, and open source. 💻💖☕
+### ✦ About Me
+I'm a CS graduate from UEM Jaipur (2025) and a developer focused on integrating AI into real-world applications. With over **90+ projects** shipped across mobile and web, I believe in learning by doing. Every project starts as a personal challenge and evolves into a scalable solution.
 
-- 🎓 **B.Tech in CSE** @ [University of Engineering & Management, Jaipur](https://uem.edu.in) — Class of 2025
-- 📍 **Based in** Jaipur, India 🇮🇳
-- 💼 **Currently building** — AstroMonk, Rigvay, FinNova, GamingArena & more
+<br/>
 
-## 👨‍💻 About Me
+### ✦ Tech Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,docker,git,linux,figma&theme=dark&perline=8" />
+</p>
 
-- 🤖 **AI-first developer**, integrating Gemini, OpenAI & ML into real-world apps
-- 🚀 **90+ projects shipped**, solving real problems across mobile, web & SaaS
-- 📱 **React Native developer**, building cross-platform mobile experiences
-- 🔥 **2026 mission** — ship more SaaS products and go deeper into AI/ML
-- 🤫 **Philosophy** — Learn by building. Every project starts as my own problem, then becomes someone else's solution.
-- 🧩 **Hobby** — DSA grinding, video editing, and building AI-powered apps
+<br/>
 
-## 🚀 Active Projects
+### ✦ Active Projects
 
-> [!IMPORTANT]
 > **2026 Goal:** Shipping production-ready SaaS products and AI-powered tools! 💪🎯
 
-| Project | Description | Tech | Stars |
-| ------- | ----------- | ---- | ----- |
-| 🔮 **[AstroMonk](https://github.com/AmanKumarAndro)** | Full-stack Astrology SaaS platform with AI calculation engine | JS, Python, Node.js | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🎮 **[GamingArena](https://github.com/AmanKumarAndro)** | Competitive gaming platform with admin dashboard & leaderboard | MERN Stack | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 💰 **[FinNova](https://github.com/AmanKumarAndro)** | Financial management mobile application | React Native, Node.js | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🚗 **[Rigvay](https://github.com/AmanKumarAndro)** | Full-stack marketplace platform (client + server) | MERN Stack | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🖨️ **[PrintDock](https://github.com/AmanKumarAndro)** | Print management & smart release system | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🧠 **[RefineX](https://github.com/AmanKumarAndro)** | SaaS productivity platform | TypeScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🏆 **[GRPL Leaderboard](https://github.com/AmanKumarAndro)** | Real-time gaming ranking & leaderboard system | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
-| 🛒 **[FreshMart](https://github.com/AmanKumarAndro)** | Marketplace grocery e-commerce app | TypeScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AmanKumarAndro.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro) |
+| Project | Description | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **AstroMonk** | AI-powered Astrology SaaS Platform | `JS` `Python` `Node.js` | 🔒 Private |
+| **GamingArena** | Competitive gaming platform with admin dashboard & leaderboard | `MERN Stack` | 🔒 Private |
+| **FinNova** | Financial management mobile application | `React Native` `Node.js` | 🔒 Private |
+| **Rigvay** | Full-stack marketplace platform (client + server) | `MERN Stack` | 🔒 Private |
+| **PrintDock** | Print management & smart release system | `JavaScript` | 🔒 Private |
+| **RefineX** | SaaS productivity platform | `TypeScript` | 🔒 Private |
+| **GRPL Leaderboard** | Real-time gaming ranking & leaderboard system | `JavaScript` | 🔒 Private |
+| **FreshMart** | Marketplace grocery e-commerce app | `TypeScript` | 🔒 Private |
+| **MOSHPITAL** | Hospital management system | `JavaScript` | 🔒 Private |
+| **SecureStreaming** | Secure video streaming platform | `JavaScript` | 🔒 Private |
+| **KisanVoiceAI** | Voice AI assistant for farmers | `JavaScript` | 🔒 Private |
+| **Fitness-Era** | Complete fitness platform frontend & backend | `JavaScript` | 🔒 Private |
+| **BeingEngineer** | Learning platform | `JavaScript` | 🔒 Private |
 
-## 🌟 Shipped & Live Projects
+<br/>
 
-| Project | Description | Tech | Stars |
-| ------- | ----------- | ---- | ----- |
-| 🤖 **[VibeCoder](https://github.com/AmanKumarAndro/VibeCoder)** | AI-powered code editor — [vibe-coder.vercel.app](https://vibe-coder.vercel.app) | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/VibeCoder.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/VibeCoder/stargazers) |
-| 🌍 **[AiForBharat](https://github.com/AmanKumarAndro/AiForBharat)** | AI assistant built for India — [ai-for-bharat-iota.vercel.app](https://ai-for-bharat-iota.vercel.app) | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/AiForBharat.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/AiForBharat/stargazers) |
-| ⚖️ **[Lexi Legal Advisor](https://github.com/AmanKumarAndro/Lexi-Legal-Advisor-Frontend)** | AI-powered legal advisor — [lexi-legal-advisor-frontend.vercel.app](https://lexi-legal-advisor-frontend.vercel.app) | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Lexi-Legal-Advisor-Frontend.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Lexi-Legal-Advisor-Frontend/stargazers) |
-| 📱 **[Viora](https://github.com/AmanKumarAndro/Viora)** | TypeScript application | TypeScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Viora.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Viora/stargazers) |
-| 📰 **[Newzy](https://github.com/AmanKumarAndro/newzy-the-ultimate-news-app)** | The ultimate news app | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/newzy-the-ultimate-news-app.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/newzy-the-ultimate-news-app/stargazers) |
-| 📸 **[CameraOCR](https://github.com/AmanKumarAndro/cameraocr)** | Camera-based text recognition app | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/cameraocr.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/cameraocr/stargazers) |
-| 📦 **[PackPal](https://github.com/AmanKumarAndro/PackPal)** | Smart packing list organizer | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/PackPal.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/PackPal/stargazers) |
-| 📝 **[NoteWhiz Frontend](https://github.com/AmanKumarAndro/NoteWhiz-Frontend)** | Clean note-taking app frontend | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/NoteWhiz-Frontend.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/NoteWhiz-Frontend/stargazers) |
-| 🎨 **[VisualAI](https://github.com/AmanKumarAndro/VisualAI__An-Ai-logo-and-Image-Generator)** | AI image & logo generator | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/VisualAI__An-Ai-logo-and-Image-Generator.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/VisualAI__An-Ai-logo-and-Image-Generator/stargazers) |
-| 📊 **[Article Summarizer](https://github.com/AmanKumarAndro/Article-Summarizer)** | AI-powered article summarizer | Python | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Article-Summarizer.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Article-Summarizer/stargazers) |
-| 🔐 **[Password Generator](https://github.com/AmanKumarAndro/password-generator)** | Secure random password generator | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/password-generator.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/password-generator/stargazers) |
+### ✦ Shipped & Live Projects
 
-## 🧪 Other Projects
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| **VibeCoder** | AI-powered code editor — [vibe-coder.vercel.app](https://vibe-coder.vercel.app) | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/VibeCoder.svg?style=social)](https://github.com/AmanKumarAndro/VibeCoder) |
+| **AiForBharat** | AI assistant built for India — [ai-for-bharat-iota.vercel.app](https://ai-for-bharat-iota.vercel.app) | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/AiForBharat.svg?style=social)](https://github.com/AmanKumarAndro/AiForBharat) |
+| **Lexi Legal Advisor** | AI-powered legal advisor — [lexi-legal-advisor-frontend.vercel.app](https://lexi-legal-advisor-frontend.vercel.app) | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Lexi-Legal-Advisor-Frontend.svg?style=social)](https://github.com/AmanKumarAndro/Lexi-Legal-Advisor-Frontend) |
+| **Viora** | TypeScript application | `TypeScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Viora.svg?style=social)](https://github.com/AmanKumarAndro/Viora) |
+| **Newzy** | The ultimate news app | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/newzy-the-ultimate-news-app.svg?style=social)](https://github.com/AmanKumarAndro/newzy-the-ultimate-news-app) |
+| **CameraOCR** | Camera-based text recognition app | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/cameraocr.svg?style=social)](https://github.com/AmanKumarAndro/cameraocr) |
+| **PackPal** | Smart packing list organizer | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/PackPal.svg?style=social)](https://github.com/AmanKumarAndro/PackPal) |
+| **NoteWhiz** | Clean note-taking app frontend | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/NoteWhiz-Frontend.svg?style=social)](https://github.com/AmanKumarAndro/NoteWhiz-Frontend) |
+| **VisualAI** | AI image & logo generator | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/VisualAI__An-Ai-logo-and-Image-Generator.svg?style=social)](https://github.com/AmanKumarAndro/VisualAI__An-Ai-logo-and-Image-Generator) |
+| **Article Summarizer**| AI-powered article summarizer | `Python` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Article-Summarizer.svg?style=social)](https://github.com/AmanKumarAndro/Article-Summarizer) |
+| **Password Gen** | Secure random password generator | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/password-generator.svg?style=social)](https://github.com/AmanKumarAndro/password-generator) |
 
-| Project | Description | Tech | Stars |
-| ------- | ----------- | ---- | ----- |
-| 🎲 **[Guess The Number](https://github.com/AmanKumarAndro/Guess-The-Number-Game)** | Fun interactive number game | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Guess-The-Number-Game.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Guess-The-Number-Game/stargazers) |
-| 🎭 **[Brainwave](https://github.com/AmanKumarAndro/Brainwave)** | Modern landing page | HTML | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Brainwave.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Brainwave/stargazers) |
-| 🍕 **[FoodApp](https://github.com/AmanKumarAndro/foodApp)** | Food ordering UI | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/foodApp.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/foodApp/stargazers) |
-| 🎯 **[TabFocus Enhancer](https://github.com/AmanKumarAndro/TabFocus-Enhancer)** | Browser productivity tool | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/TabFocus-Enhancer.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/TabFocus-Enhancer/stargazers) |
-| 🎪 **[Random Joke Generator](https://github.com/AmanKumarAndro/Random-Joke-Generator)** | Random jokes using API | CSS | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Random-Joke-Generator.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Random-Joke-Generator/stargazers) |
-| 🗃️ **[DBMS SQL Cheat Sheet](https://github.com/AmanKumarAndro/DBMS-SQL-CheatSheet)** | SQL/DBMS quick reference | Markdown | [![star](https://img.shields.io/github/stars/AmanKumarAndro/DBMS-SQL-CheatSheet.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/DBMS-SQL-CheatSheet/stargazers) |
-| 🛤️ **[WaysAhead](https://github.com/AmanKumarAndro/WaysAhead)** | Navigation & directions app | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/WaysAhead.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/WaysAhead/stargazers) |
-| 🎮 **[Bubble Game](https://github.com/AmanKumarAndro/Bubble-Game-Using-Html-CSS-JS)** | Browser bubble game in HTML/CSS/JS | HTML | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Bubble-Game-Using-Html-CSS-JS.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Bubble-Game-Using-Html-CSS-JS/stargazers) |
-| 🖥️ **[Multi-Step Profile Form](https://github.com/AmanKumarAndro/Multi-Step-User-Profile-Update-Form)** | Multi-step UX form component | JavaScript | [![star](https://img.shields.io/github/stars/AmanKumarAndro/Multi-Step-User-Profile-Update-Form.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/AmanKumarAndro/Multi-Step-User-Profile-Update-Form/stargazers) |
+<br/>
 
-## 🔥 What I'm Doing
+### ✦ Other Projects
 
-- Building AstroMonk — a full-stack Astrology SaaS with an AI-powered calculation engine
-- Developing Rigvay — a scalable marketplace platform with shared server architecture
-- Shipping AI-integrated apps (Gemini API, OpenAI, TensorFlow)
-- Grinding DSA in Python & C++ for competitive programming
-- Exploring Web3 and Blockchain technologies
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| **Guess The Number** | Fun interactive number game | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Guess-The-Number-Game.svg?style=social)](https://github.com/AmanKumarAndro/Guess-The-Number-Game) |
+| **Brainwave** | Modern landing page | `HTML` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Brainwave.svg?style=social)](https://github.com/AmanKumarAndro/Brainwave) |
+| **FoodApp** | Food ordering UI | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/foodApp.svg?style=social)](https://github.com/AmanKumarAndro/foodApp) |
+| **TabFocus Enhancer**| Browser productivity tool | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/TabFocus-Enhancer.svg?style=social)](https://github.com/AmanKumarAndro/TabFocus-Enhancer) |
+| **Random Jokes** | Random jokes using API | `CSS` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Random-Joke-Generator.svg?style=social)](https://github.com/AmanKumarAndro/Random-Joke-Generator) |
+| **DBMS Cheat Sheet** | SQL/DBMS quick reference | `Markdown` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/DBMS-SQL-CheatSheet.svg?style=social)](https://github.com/AmanKumarAndro/DBMS-SQL-CheatSheet) |
+| **WaysAhead** | Navigation & directions app | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/WaysAhead.svg?style=social)](https://github.com/AmanKumarAndro/WaysAhead) |
+| **Bubble Game** | Browser bubble game in HTML/CSS/JS | `HTML` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Bubble-Game-Using-Html-CSS-JS.svg?style=social)](https://github.com/AmanKumarAndro/Bubble-Game-Using-Html-CSS-JS) |
+| **Multi-Step Form** | Multi-step UX form component | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Multi-Step-User-Profile-Update-Form.svg?style=social)](https://github.com/AmanKumarAndro/Multi-Step-User-Profile-Update-Form) |
+| **Sukuna** | Creative JS project | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/sukuna.svg?style=social)](https://github.com/AmanKumarAndro/sukuna) |
+| **Bg-Changer** | React background changer | `JavaScript` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Bg-changer-using-React.svg?style=social)](https://github.com/AmanKumarAndro/Bg-changer-using-React) |
+| **Hacktoberfest DSA**| C++ DSA snippets | `C++` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Hacktoberfest2022-DSA.svg?style=social)](https://github.com/AmanKumarAndro/Hacktoberfest2022-DSA) |
+| **Eduhub Community** | HTML frontend template | `HTML` | [![Stars](https://img.shields.io/github/stars/AmanKumarAndro/Eduhub-Community.github.io.svg?style=social)](https://github.com/AmanKumarAndro/Eduhub-Community.github.io) |
+| **Youtube Clone** | React JS clone app | `JavaScript` | 🔒 Private |
+| **Resume Builder** | Simple resume generator | `JavaScript` | 🔒 Private |
+| **Weather App** | Weather API frontend | `JavaScript` | 🔒 Private |
 
-## 💭 Philosophy
+<br/>
 
-> "Turning complex problems into elegant solutions."
+### ✦ Metrics
 
-I learn by building. Every project starts as something I needed, then becomes something others use. As a self-taught developer at heart, code is my teacher and shipping is my curriculum. I don't just write features — I solve real problems and build things that matter.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amankumarandro&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amankumarandro&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&sideNums=ffffff&sideLabels=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=8b949e" width="48%" />
+</p>
 
-## 🌐 Connect
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarandro&bg_color=00000000&color=ffffff&line=8b949e&point=ffffff&area=true&hide_border=true" />
+</p>
 
-Follow **@AmanKumarAndro** on [GitHub](https://github.com/AmanKumarAndro) · [LinkedIn](https://linkedin.com/in/aman-kumar-671a19244) · [Twitter](https://twitter.com/amankumarandro) · [Instagram](https://instagram.com/andro.aman)
 
----
-
-💻💖☕ by [Aman Kumar](https://github.com/AmanKumarAndro) — _Keep building, keep shipping._
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amankumarandro&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
